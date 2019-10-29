@@ -1,9 +1,9 @@
 {
   "expoServerNgrokUrl": "https://dd-qa6.anonymous.mobile.exp.direct",
   "packagerNgrokUrl": "https://packager.dd-qa6.anonymous.mobile.exp.direct",
-  "ngrokPid": 11228,
+  "ngrokPid": 7284,
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 9468
+  "packagerPid": 5904
 }
