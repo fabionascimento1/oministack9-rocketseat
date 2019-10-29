@@ -13,5 +13,6 @@ Sistema permite 'empresas' cadastrarem 'spots' para reservas e receber notifica�
 - **[Node](https://nodejs.org/en/)**
 - **[Mongo](https://www.mongodb.com/cloud/atlas)**
 - **[React](https://reactjs.org/)** para web e mobile nativo
-- **[Express paa API](https://expressjs.com/)**
+- Build aplicação Nativo com **[Expo](https://expo.io/)**
+- **[Express para API](https://expressjs.com/)**
 - **[Socket.io](https://socket.io/)**
